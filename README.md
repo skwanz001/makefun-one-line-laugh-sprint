@@ -1,8 +1,8 @@
 # One-Line Laugh Sprint
 
-[![make.fun](https://img.shields.io/badge/make.fun-One--Line%20Laugh%20Sprint-blue)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
-[![entry](https://img.shields.io/badge/entry-one%20line%2C%2093%20chars-green)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
-[![license](https://img.shields.io/badge/license-MIT-lightgrey)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![make.fun · u-daring-gecko-25-one-line-laugh-sprint-cda708b2](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/skwanz001/makefun-one-line-laugh-sprint/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-laugh-sprint-cda708b2/skwanz001/makefun-one-line-laugh-sprint/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-laugh-sprint-cda708b2)
 
 Entry for the [One-Line Laugh Sprint](https://make.fun/bounty/u-daring-gecko-25-one-line-laugh-sprint-cda708b2) bounty on make.fun: one original funny line of at most 200 characters on everyday life.
 
